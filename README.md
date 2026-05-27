@@ -1,6 +1,9 @@
 ﻿<div align="center">
-<img src="assets/logo.png" alt="bKash Sync Logo" width="64" height="64" style="vertical-align:middle;" />
-# bKash Sync
+<img src="assets/logo.png" alt="bKash Sync Logo" width="64" height="64" />
+<br/>
+
+<h1>bKash Sync</h1>
+
 </div>
 
 **Real-time bKash SMS transaction monitoring and synchronization with custom backend APIs**
@@ -20,6 +23,7 @@ bKash Sync is an Android application that automatically monitors incoming bKash 
 bKash Sync enables automated P2P (person-to-person) bKash payment verification — no merchant account or bKash API access required.
 
 **How it works:**
+
 1. You create a payment page on your website with a product price and your personal bKash number
 2. A customer sends money from their bKash to your number and receives an SMS confirmation with a TrxID
 3. bKash Sync captures the SMS on your phone and syncs it to your Cloudflare backend
@@ -28,6 +32,7 @@ bKash Sync enables automated P2P (person-to-person) bKash payment verification �
 6. Payment verified automatically — no manual SMS checking
 
 **What developers can build with this:**
+
 - **Self-hosted payment pages** — Sell digital products, services, or accept donations with automated bKash verification
 - **Order processing systems** — Match incoming bKash payments to orders without polling the official bKash API
 - **Personal finance dashboards** — Log and analyze all bKash income in your own database
